@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">513563851087-ql9pi2hmkk5sqaq0jg887b7p82u0rcvo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">513563851087</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqv_kWw4Gjozg7YDGjPjvodCEELtKyXMY</string>
+    <string name="google_app_id" translatable="false">1:513563851087:android:e9da9ab40215b91404ad3a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqv_kWw4Gjozg7YDGjPjvodCEELtKyXMY</string>
+    <string name="google_storage_bucket" translatable="false">flutterbarberbooking-e82b4.appspot.com</string>
+    <string name="project_id" translatable="false">flutterbarberbooking-e82b4</string>
+</resources>
